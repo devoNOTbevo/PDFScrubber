@@ -1,0 +1,12 @@
+{
+  "name": "pdf-scrubber",
+  "version": "1.0.0",
+  "description": "form site that takes a pdf and finds part numbers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "devoNOTbevo",
+  "license": "ISC"
+}
